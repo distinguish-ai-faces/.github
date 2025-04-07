@@ -10,6 +10,17 @@
 
 ## 📌 Project Overview
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-D00000?logo=keras&logoColor=white)
+![Docker](https://img.shields.io/badge/Containerized-Docker-2496ED?logo=docker&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Deployed%20on-Vertex%20AI-4285F4?logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Cloud-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?logo=github)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Academic](https://img.shields.io/badge/University-Akdeniz%20University-darkgreen?logo=academia&logoColor=white)
+
+
 Recent advancements in Generative Adversarial Networks (GANs) have made it increasingly difficult to distinguish AI-generated faces from real human photos. This project aims to develop a computer vision system that can accurately classify whether a face is real or synthesized.
 
 This project is divided into two primary components:
